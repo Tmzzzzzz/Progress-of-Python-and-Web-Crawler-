@@ -1,7 +1,7 @@
 # <span style="color:red;">爬虫</span>
 ```import requests```
 
- [***点此查看代码示例文件***](Scrape.py)
+ [***点此查看代码示例文件***](<test case/Scrape.py>)
     
 1.  **使用```requests.get("链接")```返回得到该链接URL的参数**
     
