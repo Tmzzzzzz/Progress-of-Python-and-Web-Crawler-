@@ -10,6 +10,8 @@
 
 # **HTML**
 
+[点此查看代码示例](<test case/Html_test.html>)
+
 * *一个最简单的html如下*
      ```html
     <!DOCTYPE HTML>  //告知浏览器文件类型为html
